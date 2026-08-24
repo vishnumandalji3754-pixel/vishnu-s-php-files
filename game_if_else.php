@@ -158,7 +158,7 @@ if ($ans == "arjun") {
 
         echo "\n🏹 Danush Ban Yudh begins!\n";
         echo "$name defeats Duryodhan from a distance!\n";
-        echo "$name YOU WIN!\n";
+        echo "$name YOU LOSS MY SON!\n";
 
     } else {
 
